@@ -1,0 +1,9 @@
+need to add this in variables in .env file
+
+PORT = 4000
+
+SECRET_KEY="your secret key"
+
+EMAIL = "your mail"
+
+PASSWORD = "PASSWORD for nodemailer create in 2 step verfication page google account"
